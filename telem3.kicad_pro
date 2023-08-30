@@ -531,7 +531,7 @@
       "idf": "",
       "netlist": "./",
       "specctra_dsn": "",
-      "step": "",
+      "step": "telem3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
