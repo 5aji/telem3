@@ -2,12 +2,12 @@
 
   (uuid bc28f926-3cf9-4560-a9ac-15cb5699adb1)
 
-  (paper "A")
+  (paper "A4")
 
   (title_block
     (title "T3 Telemetry Board")
     (date "2023-07-26")
-    (rev "1")
+    (rev "1.1a-DRAFT")
     (company "Solar Vehicle Project")
   )
 

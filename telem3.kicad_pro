@@ -532,7 +532,7 @@
       "netlist": "./",
       "specctra_dsn": "",
       "step": "telem3.step",
-      "vrml": ""
+      "vrml": "telem3.wrl"
     },
     "page_layout_descr_file": ""
   },
